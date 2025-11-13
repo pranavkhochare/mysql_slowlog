@@ -19,9 +19,7 @@ from email.mime.text import MIMEText
 from smtplib import SMTP
 import markdown
 from langchain_ollama import ChatOllama
-# from langchain_core.prompts import PromptTemplate
 import tempfile
-# from collections import defaultdict
 import socket
 
 
